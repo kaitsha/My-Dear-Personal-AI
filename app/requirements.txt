@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+gTTS
+coqui-stt
+python-multipart
